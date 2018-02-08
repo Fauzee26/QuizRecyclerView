@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iBatam</string>
+    <string name="main">Batam, A Face Of Indonesia</string>
+    <string name="title_hotel">List Hotel</string>
+    <string name="title_hotel_detail">Detail Hotel</string>
+    <string name="title_kuliner">List Kuliner</string>
+    <string name="title_kuliner_detail">Detail Kuliner</string>
+    <string name="title_wisata">List Tempat Wisata</string>
+    <string name="title_wisata_detail">Detail Tempat Wisata</string>
+
+</resources>
